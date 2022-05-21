@@ -1,2 +1,2 @@
 # Sporty shoes (An e-commerce website)
-Sporty shoes is an E-commerce website api for shoes developed using Spring-boot.
+An api for an E-commerce website sporty-shoes developed using Spring-boot.
